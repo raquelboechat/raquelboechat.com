@@ -1,0 +1,8 @@
+campo=<HTML><BODY>RAQUEL BOECHAT COMUNICAÇÕES trabalha <B>soluções</B> em Comunicação e Mar-keting para criar e desenvolver projetos audiovisuais e multimídia para empresas de comunicação, pessoas, agências, pro-dutoras, organizações, governos, partidos políticos, fundações e empresas. 
+
+Produzimos <b>conteúdo</b>; prestamos consul-toria e assessoria; transformamos neces-sidades de comunicação em estratégia, idéia, palavra, discurso, imagem, som e formato; desenvolvemos ações e projetos com arte, emoção e informação associando experiência, estudo e pesquisa constantes, sempre em busca dos melhores <B>resultados</B>.
+
+A Empresa está sob a direção da Jornalista RAQUEL BOECHAT, pós-graduada em Comunicação e Imagem pela PUC do Rio de Janeiro, desde os anos 80 atuante no mercado audiovisual, presente em pro-jetos de <A HREF="mark_politico.html"><U>marketing político</U></A>, <A HREF="comunicacao_estrategica.html"><U>comunicação estratégica</U></A>, mídia-educação, comerciais, <A HREF="midias.html"><U><I>websites</I>, DVDs</U></A>, documentários, reporta-gens especiais e programas que trouxeram linguagens inovadoras para a <A HREF="tv.html"><U>TV</U></A> brasileira.
+
+Navegue com a gente!
+</BODY></HTML>

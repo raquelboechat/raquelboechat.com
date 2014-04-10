@@ -1,0 +1,74 @@
+/* CSS Document */
+
+.corpo {
+	font-family: Verdana;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+
+	.titulo {
+;
+}
+a:hover {
+	color: #D4D0C8;
+	text-decoration: underline;
+	font-family: Verdana;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+a:visited {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+a:active {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+a:link {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.titulo1 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.endereco {
+	font-family: Verdana;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #666666;
+	text-decoration: none;
+}

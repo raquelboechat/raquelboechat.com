@@ -1,0 +1,21 @@
+campo=<HTML><BODY>Criada em 2003, a Empresa RAQUEL BOECHAT COMUNICAÇÕES é conse-qüência natural da carreira da Jornalista RAQUEL BOECHAT, e já nasce ‘na estrada’, plena de experiências e idéias, com projetos e parceiros no Brasil, na América do Sul e na Europa. 
+Os vários perfis da Jornalista, em 20 anos de atuação profissional no mercado audiovisual e da comunicação no Brasil, dão à Empresa visão e versatilidade para a execução de projetos personalizados.
+
+O QUE FAZEMOS
+
+<P ALIGN="left">Criação, Desenvolvimento e Coordenação de Projetos; 
+Audiovisuais, <I>Websites</I> e Multimídias; 
+Campanhas Políticas; Programas de Partido;
+Campanhas Institucionais; 
+Discursos e Falas;
+Consultoria e Assessoria; 
+Criação, Roteiro e Texto;
+Produção de Conteúdo; 
+Jornalismo, Mídia-Educação e Entretenimento;
+Televisão e Rádio;
+Recuperação e Organização de Acervos Audiovisuais; 
+Análise e Adaptações de Conteúdos e Campanhas para o Público Brasileiro;
+Parceria em Projetos e Suporte a Equipes Estrangeiras no Brasil.
+</ALIGN></P>
+
+</BODY></HTML>

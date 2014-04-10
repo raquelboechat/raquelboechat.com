@@ -1,0 +1,23 @@
+.link_vermelho {
+}
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+a:visited {
+	color: #FF0000;
+	text-decoration: none;
+}
+a:active {
+	color: #FF0000;
+	text-decoration: underline;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}

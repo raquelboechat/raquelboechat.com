@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Digite sua senha"
+
+AuthUserFile "/home/raquel/.htpasswds/acesso/passwd"
+
+
+require valid-user

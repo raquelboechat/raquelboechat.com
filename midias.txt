@@ -1,0 +1,7 @@
+campo=<HTML><BODY>RAQUEL BOECHAT COMUNICAÇÕES cria e desenvolve projetos multimídia voltados para a cultura, o entretenimento e a educação, a comunicação e o marketing, com soluções para forma e conteúdo aplicáveis em quaisquer meios, planos de convergência e de interatividade. 
+
+Atenta às transformações estruturais que acontecem na mídia, com os desafios da era digital e da produção de conteúdo voltada para novas tecnologias, como a TV para Internet, celular e <I>palm tops</I>, a Empresa tem como base o conhecimento adquirido nas áreas de comunicação estratégica, TV e outras mídias através do vasto cardápio de aplicações, públicos, metas e linguagens que nos propõem os produtos audiovisuais e suas formas de interação com os demais meios e artes.
+
+A TV não acabou com o rádio, o <I>video tape</I> não dispensou a força do ao vivo, o <I>surround</I> não abafou a emoção de assistir a uma orquestra, o DVD não substituiu a magia da telona na sala escura, nem tanta tecnologia suprimiu o bom livro.
+Novas mídias e novas formas de interação e de percepção estão sempre a caminho, renovam o olhar e o modo de trabalharmos linguagens, formas de comunicar, informar e emocionar, e cada novidade, ou neces-sidade, é mais um convite a um novo e estimulante desafio.
+</BODY></HTML>
